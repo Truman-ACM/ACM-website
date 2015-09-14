@@ -12,6 +12,7 @@
 }
 #ts_tabmenu ul li
 {
+    display:inline-block;
     float: left;
 }
 #ts_tabmenu ul li a
