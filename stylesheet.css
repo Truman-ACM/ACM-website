@@ -1,51 +1,43 @@
-#ts_tabmenu {
-    font-size: .75em;
-    padding: 20px 0px 0px 20px;
+/* navigation */
+	
+#nav {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background: #ccc;
+	border-bottom: 1px solid #999;
 }
-#ts_tabmenu ul
-{
-    line-height: 1em;
-    margin: 0px;
-    list-style-type: none;
-    float: left;
-    padding: 0px 0px 0px 5px;
+
+#nav li { 
+	float: left;
+	margin: 0;
+	padding: 0;
 }
-#ts_tabmenu ul li
-{
-    display:inline-block;
-    float: left;
+	
+#nav a {
+	float: left;
+	display: block;
+	padding: 6px 30px 6px 5px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 90%;
+	color: #666;
+	background: #ccc url(../img/nav_slant.gif) no-repeat top right;
 }
-#ts_tabmenu ul li a
-{
-    text-decoration: none;
-    display: block;
-    float: left;
-    padding: 0px 0px 0px 10px;
-    background: url(tabs.gif) no-repeat left top;
-    margin-left: -5px;
-    z-index: 0;
-    position: relative;
-    color: #666666;
+	
+#nav #nav-1 a {
+	padding-left: 20px;
 }
-#ts_tabmenu ul li a strong
-{
-    font-weight: normal; /* remove the bold effect */
-    display: block;
-    background: url(tabs.gif) no-repeat right top;
-    padding: 6px 10px 7px 5px;
-    cursor: pointer;
+	
+#nav a:hover {
+	color: #000;
 }
-#ts_tabmenu ul li a:hover
-{
-    position: relative;
-    z-index: 5;
-    background: url(tabs.gif) no-repeat left bottom;
-    color: #000000;
-}
-#ts_tabmenu ul li a:hover strong
-{
-    background-image: url(tabs.gif) no-repeat;
-    position: relative;
-    z-index: 5;
-    background-position: right bottom;
+
+/* more */
+	
+ul#more {
+	clear: left;
+	margin-top: 60px;
 }
