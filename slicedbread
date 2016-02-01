@@ -4,13 +4,33 @@
 <title>Sliced Bread LTD</title>
 </head>
 <body>
+<p> Welcome to Sliced Bread LTD! Where we are coming out with the newest products before anyone else even thinks of it! </p>
+<h1>Portable Pencil Sharpener</h1>
+<p>This little device is perfect for on the go pencil sharpening!</p>
+<ol>
+  <li> It can help you sharpen your pencil on the go! </li>
+  <li> This handy little sharpener fits inside your pocket! </li>
+  <li> Without this sharpener you will be confiended to the past wall sharpeners! </li>
+</ol>
+<h1> Hover Board </h1>
+<p> Are you tired of walking or skateboarding to work? Fear not! There is a new product that can help you transverse the sidewalks.</p>
+<ul>
+  <li>doesn't require contact with the ground!</li>
+  <li>Methods of traveling it can replace:</li>
+  <ul>
+  <li>cars</li>
+  <li>skateboards</li>
+  <li>feet</li>
+</ul>  
+  <li>Ride to school or work in style!</li>
+</ul>  
 
-<h1>First Item</h1>
-<p>My first paragraph.</p>
-<h1> Second Item </h1>
-<p> </p>
-<h1>Third Item</h1>
-<p>My first paragraph.</p>
-
+<h1>Pen</h1>
+<p>If you are tired of working with pencils and their sharpeners and are confident in what you are writing pens may be the product for you!</p>
+<ul>
+  <li>They require no sharpening whatsoever!</li>
+  <li>Unlike pencils they come with a cap so you don't accidently write on anything!</li>
+  <li>It writes in a darker color and is more legaible!</li>
+</ul>  
 </body>
 </html>
