@@ -2,6 +2,11 @@ body {
 	background-color: #b9c5c8
 }
 
+#right{
+	width: 45%;
+	float: right;
+}
+
 #navbar {
 	position: fixed;
 	top:10px;
